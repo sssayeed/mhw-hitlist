@@ -1,2 +1,2 @@
 # mhw-hitlist
-Hit-list of all the monsters you wanna murder in cold blood.
+To help you plan what monsters to hunt to get your gear in MHW
